@@ -1,0 +1,29 @@
+[
+  {
+    "collect_id": "collect_1",
+    "school_id": "65b0e6293e9f76a9694d84b4",
+    "gateway": "PhonePe",
+    "order_amount": 2000,
+    "transaction_amount": 2200,
+    "status": "Success",
+    "custom_order_id": "CUST001"
+  },
+  {
+    "collect_id": "collect_2",
+    "school_id": "65b0e6293e9f76a9694d84b4",
+    "gateway": "Paytm",
+    "order_amount": 1000,
+    "transaction_amount": 1100,
+    "status": "Pending",
+    "custom_order_id": "CUST002"
+  },
+  {
+    "collect_id": "collect_3",
+    "school_id": "65b0e6293e9f76a9694d84b4",
+    "gateway": "GooglePay",
+    "order_amount": 1500,
+    "transaction_amount": 1550,
+    "status": "Failed",
+    "custom_order_id": "CUST003"
+  }
+]

@@ -1,0 +1,6 @@
+collect_id,school_id,gateway,order_amount,transaction_amount,status,custom_order_id
+collect_1,65b0e6293e9f76a9694d84b4,PhonePe,2000,2200,Success,CUST001
+collect_2,65b0e6293e9f76a9694d84b4,Paytm,1000,1100,Pending,CUST002
+collect_3,65b0e6293e9f76a9694d84b4,GooglePay,1500,1550,Failed,CUST003
+collect_4,65b0e6293e9f76a9694d84b4,PhonePe,3000,3100,Success,CUST004
+collect_5,65b0e6293e9f76a9694d84b4,UPI,500,550,Success,CUST005
